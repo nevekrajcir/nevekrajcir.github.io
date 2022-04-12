@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-<h2>HTML Images</h2> 
-<p>HTML images are defined with the img tag:</p>
+<h2>Neve Krajcir's Website</h2>
+<img src= "https://www.industrialempathy.com/img/remote/ZiClJf-1920w.jpg" alt= "Palm Trees" width="460" height="345">
 
 </body>
-
 </html>
